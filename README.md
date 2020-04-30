@@ -15,3 +15,6 @@ completely self coded
 
 11.complete electric field applied.
 12.visualisation applied
+
+compile using (adjust the paths according to ur system): 
+ cmake -DCMAKE_PREFIX_PATH=/home/nibir/Software/Geant4/geant4.10.05.p01-install $HOME/g4codes/B1
